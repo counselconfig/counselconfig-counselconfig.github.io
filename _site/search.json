@@ -1,0 +1,322 @@
+[
+  
+    {
+
+      "title"    : "Forms",
+      "description" : "",
+      "url"      : "/2023/03/25/forms",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2023-03-25 00:00:00 +0000"
+
+    } ,
+  
+    {
+
+      "title"    : "Collaboration",
+      "description" : "",
+      "url"      : "/2023/03/14/collaboration",
+      "category" : "",
+      "tags"     : "Trello, Atlassian, Azure, DevOps",
+      "date"     : "2023-03-14 00:00:00 +0000"
+
+    } ,
+  
+    {
+
+      "title"    : "CI CD",
+      "description" : "",
+      "url"      : "/2023/02/16/ci-cd",
+      "category" : "",
+      "tags"     : "Continuous, Deployment, Integration",
+      "date"     : "2023-02-16 00:00:00 +0000"
+
+    } ,
+  
+    {
+
+      "title"    : "RESTful APIs and Postman",
+      "description" : "",
+      "url"      : "/2022/12/01/apis-and-postman",
+      "category" : "",
+      "tags"     : "API, RESTful, endpoint",
+      "date"     : "2022-12-01 00:00:00 +0000"
+
+    } ,
+  
+    {
+
+      "title"    : "Mentoring",
+      "description" : "",
+      "url"      : "/2022/11/01/mentoring",
+      "category" : "",
+      "tags"     : "mentoring, support, software, development, data",
+      "date"     : "2022-11-01 00:00:00 +0000"
+
+    } ,
+  
+    {
+
+      "title"    : "Automated unit testing",
+      "description" : "",
+      "url"      : "/2022/06/30/automated-testing",
+      "category" : "",
+      "tags"     : "Python, Django, testing",
+      "date"     : "2022-06-30 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "Manorial Documents Register Party",
+      "description" : "",
+      "url"      : "/2022/06/13/mdr-celebration",
+      "category" : "",
+      "tags"     : "records, data, legislation, archives",
+      "date"     : "2022-06-13 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "Measuring statute complexity",
+      "description" : "",
+      "url"      : "/2022/04/01/legal-informatics",
+      "category" : "",
+      "tags"     : "text, analytics, machine, learning",
+      "date"     : "2022-04-01 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "Dashboard development",
+      "description" : "",
+      "url"      : "/2021/12/01/lcituksb-video",
+      "category" : "",
+      "tags"     : "Python, webapp, NER, text, analytics",
+      "date"     : "2021-12-01 00:00:00 +0000"
+
+    } ,
+  
+    {
+
+      "title"    : "Machine learning legislation",
+      "description" : "",
+      "url"      : "/2021/11/12/machine-learning-legislation",
+      "category" : "",
+      "tags"     : "NER, machine, learning, data",
+      "date"     : "2021-11-12 00:00:00 +0000"
+
+    } ,
+  
+    {
+
+      "title"    : "Amazon Web Services topology",
+      "description" : "",
+      "url"      : "/2021/06/21/aws-toplogy",
+      "category" : "",
+      "tags"     : "AWS, vpc, subnet",
+      "date"     : "2021-06-21 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "MVC notes",
+      "description" : "",
+      "url"      : "/2021/05/16/notes-on-mvc",
+      "category" : "",
+      "tags"     : "patterns, application, layers",
+      "date"     : "2021-05-16 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "eCommerce development",
+      "description" : "",
+      "url"      : "/2021/01/01/ecommerce",
+      "category" : "",
+      "tags"     : "ecommerce, c#, mvc, entity, framework",
+      "date"     : "2021-01-01 00:00:00 +0000"
+
+    } ,
+  
+    {
+
+      "title"    : "O-O class modeling",
+      "description" : "",
+      "url"      : "/2020/09/30/oo-class-modelling",
+      "category" : "",
+      "tags"     : "object oriented architectural modeling",
+      "date"     : "2020-09-30 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "Key constraints",
+      "description" : "",
+      "url"      : "/2020/08/31/key-constraints",
+      "category" : "",
+      "tags"     : "maths, databases, functions",
+      "date"     : "2020-08-31 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "Class associations",
+      "description" : "",
+      "url"      : "/2020/08/29/class-associations",
+      "category" : "",
+      "tags"     : "class, object",
+      "date"     : "2020-08-29 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "Counting and multiplying",
+      "description" : "",
+      "url"      : "/2020/08/11/counting-multiplying",
+      "category" : "",
+      "tags"     : "pseudocode, algorithms, maths",
+      "date"     : "2020-08-11 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "Cyber security policy",
+      "description" : "",
+      "url"      : "/2020/05/25/security-policy",
+      "category" : "",
+      "tags"     : "security, policy, cyber, legal",
+      "date"     : "2020-05-25 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "Building XML and XSLT",
+      "description" : "",
+      "url"      : "/2020/04/14/xml-xslt",
+      "category" : "",
+      "tags"     : "XML, XSLT",
+      "date"     : "2020-04-14 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "Attributes for a person class",
+      "description" : "",
+      "url"      : "/2019/12/01/attributes-for-a-person-class",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2019-12-01 00:00:00 +0000"
+
+    } ,
+  
+    {
+
+      "title"    : "Z notation",
+      "description" : "",
+      "url"      : "/2019/07/08/z-notation",
+      "category" : "",
+      "tags"     : "Z, notation, logic, math, specification",
+      "date"     : "2019-07-08 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "Use case decriptions",
+      "description" : "",
+      "url"      : "/2019/05/14/use-cases",
+      "category" : "",
+      "tags"     : "object-oriented, use-case, diagram, UML",
+      "date"     : "2019-05-14 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "UIs of yore",
+      "description" : "",
+      "url"      : "/2019/02/20/uis-of-yore",
+      "category" : "",
+      "tags"     : "modeling, dialogue, user, interfaces",
+      "date"     : "2019-02-20 00:00:00 +0000"
+
+    } ,
+  
+    {
+
+      "title"    : "SOAP API development",
+      "description" : "",
+      "url"      : "/2018/10/21/soap-api-notes",
+      "category" : "",
+      "tags"     : "API, service, requests, XML",
+      "date"     : "2018-10-21 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "Activity and sequence architecture",
+      "description" : "",
+      "url"      : "/2018/08/12/acitivty-and-sequence",
+      "category" : "",
+      "tags"     : "software, behavior, diagram, flow",
+      "date"     : "2018-08-12 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "Relational Algebra",
+      "description" : "",
+      "url"      : "/2018/05/02/relational-algebra",
+      "category" : "",
+      "tags"     : "logic, contraints, specification, SQL",
+      "date"     : "2018-05-02 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "State legal contraints",
+      "description" : "",
+      "url"      : "/2018/03/07/states",
+      "category" : "",
+      "tags"     : "state, machine, legal",
+      "date"     : "2018-03-07 00:00:00 +0000"
+
+    } ,
+  
+    {
+
+      "title"    : "Elasticsearch",
+      "description" : "",
+      "url"      : "/2017/07/28/elasticsearch",
+      "category" : "",
+      "tags"     : "Elasticsearch, database, AWS, Java, Apache",
+      "date"     : "2017-07-28 00:00:00 +0100"
+
+    } ,
+  
+    {
+
+      "title"    : "KM Leadership Award",
+      "description" : "",
+      "url"      : "/2016/04/15/leadership-award",
+      "category" : "",
+      "tags"     : "knowledge, management, information, IT",
+      "date"     : "2016-04-15 00:00:00 +0100"
+
+    } 
+  
+]
