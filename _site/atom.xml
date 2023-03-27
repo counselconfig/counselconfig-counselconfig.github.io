@@ -4,7 +4,7 @@
  <title>counsel.config</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-03-26T15:54:17+01:00</updated>
+ <updated>2023-03-27T01:31:17+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -17,7 +17,16 @@
    <link href="http://localhost:4000/2023/03/25/forms"/>
    <updated>2023-03-25T00:00:00+00:00</updated>
    <id>http://localhost:4000/2023/03/25/Forms</id>
-   <content type="html">
+   <content type="html">&lt;h3 id=&quot;letter-of-no-evidence&quot;&gt;Letter of No Evidence&lt;/h3&gt;
+
+&lt;p&gt;A webform I am developing that implememts the GOV.UK Pay API which will soon replace the &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://www.nationalarchives.gov.uk/contact-us/request-a-letter-confirming-no-evidence-of-british-naturalisation/form/&quot;&gt;Request a search for no evidence of British naturalisation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://docs.payments.service.gov.uk/api_reference/#api-reference&quot;&gt;GOV.UK Pay API&lt;/a&gt;  is prety comprehensive, creating an account is free and comes with sandbox testing environments&lt;/p&gt;
+
+&lt;video loop=&quot;true&quot; muted=&quot;&quot; autoplay=&quot;&quot; controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/videos/lone_prototype.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
 </content>
  </entry>
  
@@ -1412,11 +1421,11 @@ prefix xsl--&amp;gt;&lt;/span&gt;
  </entry>
  
  <entry>
-   <title>UIs of yore</title>
-   <link href="http://localhost:4000/2019/02/20/uis-of-yore"/>
+   <title>Legacy UIs</title>
+   <link href="http://localhost:4000/2019/02/20/legacy-uis"/>
    <updated>2019-02-20T00:00:00+00:00</updated>
-   <id>http://localhost:4000/2019/02/20/UIs of yore</id>
-   <content type="html">&lt;p&gt;I do not think ‘entity life history’ is a common place term in today’s dev communities. These are dialogue diagrams used in the 80’s which I think are tremendously useful for modeling the logic of user interface (UI) interaction. I am talking &lt;u&gt;front-end&lt;/u&gt; development in the days of Amstrad. Lest we forget, here is an abstract from a report I wrote using the techniques:-&lt;/p&gt;
+   <id>http://localhost:4000/2019/02/20/Legacy-UIs</id>
+   <content type="html">&lt;p&gt;I do not think ‘entity life history’ is a common place term in today’s dev communities. These are dialogue diagrams used in the 80’s which I think are tremendously useful for modeling the logic of user interface (UI) interaction.&lt;/p&gt;
 
 &lt;h1 id=&quot;41-ahc-dialogue-structure-diagram&quot;&gt;4.1 AHC dialogue structure diagram&lt;/h1&gt;
 
@@ -1644,7 +1653,69 @@ prefix xsl--&amp;gt;&lt;/span&gt;
    <link href="http://localhost:4000/2017/07/28/elasticsearch"/>
    <updated>2017-07-28T00:00:00+01:00</updated>
    <id>http://localhost:4000/2017/07/28/Elasticsearch</id>
-   <content type="html">
+   <content type="html">&lt;h1 id=&quot;crud-elasticsearch&quot;&gt;CRUD Elasticsearch&lt;/h1&gt;
+
+&lt;p&gt;I have installed elasticsearch locally from elastic.co, the head and marvel plugins, plus Kibana - time to explore.&lt;/p&gt;
+
+&lt;h2 id=&quot;put&quot;&gt;PUT&lt;/h2&gt;
+
+&lt;p&gt;This creates data:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;PUT my_deezer/song/1
+{
+&quot;title&quot;: &quot;Doing All Right&quot;,
+&quot;artist&quot;: &quot;Queen&quot;,
+&quot;album&quot;: &quot;Queen&quot;,
+&quot;year&quot;: 1973,
+&quot;time&quot;: 269
+}
+
+PUT my_deezer/song/2
+{
+&quot;title&quot;: &quot;You're My Best Friend&quot;,
+&quot;artist&quot;: &quot;Queen&quot;,
+&quot;album&quot;: &quot;A Night at the Opera&quot;,
+&quot;year&quot;: 1975,
+&quot;time&quot;: 172
+}
+
+PUT my_deezer/song/3
+{
+&quot;title&quot;: &quot;Hall of the Mountain King&quot;,
+&quot;artist&quot;: &quot;Savatage&quot;,
+&quot;album&quot;: &quot;Hall of the Mountain King&quot;,
+&quot;year&quot;: 1985,
+&quot;time&quot;: 355
+}
+
+PUT my_deezer/song/4
+{
+&quot;title&quot;: &quot;Peace of Mind&quot;,
+&quot;artist&quot;: &quot;Boston&quot;,
+&quot;album&quot;: &quot;Boston&quot;,
+&quot;year&quot;: 1976,
+&quot;time&quot;: 302
+}
+
+PUT my_deezer/song/5
+{
+&quot;title&quot;: &quot;Faithfully&quot;,
+&quot;artist&quot;: &quot;Journey&quot;,
+&quot;album&quot;: &quot;Frontiers&quot;,
+&quot;year&quot;: 1983,
+&quot;time&quot;: 269
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;style&gt;
+img {
+  border: 1px solid #555;
+}
+&lt;/style&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/elasticsearch.png&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;display: block; margin: 0 auto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;More to come…&lt;/p&gt;
 </content>
  </entry>
  
@@ -1653,7 +1724,7 @@ prefix xsl--&amp;gt;&lt;/span&gt;
    <link href="http://localhost:4000/2016/04/15/leadership-award"/>
    <updated>2016-04-15T00:00:00+01:00</updated>
    <id>http://localhost:4000/2016/04/15/Leadership-Award</id>
-   <content type="html">&lt;p&gt;I have ended up leading my team’s Knowledge Management (KM) lately ovseering the application administration of our SharePoint servers and secured an award!&lt;/p&gt;
+   <content type="html">&lt;p&gt;I have ended up leading my team’s Knowledge Management (KM) lately ovseering the application administration of our SharePoint servers and got this award.&lt;/p&gt;
 
 &lt;style&gt;
 img {
