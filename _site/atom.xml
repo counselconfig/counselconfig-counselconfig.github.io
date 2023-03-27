@@ -4,7 +4,7 @@
  <title>counsel.config</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-03-27T01:31:17+01:00</updated>
+ <updated>2023-03-27T11:06:12+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -21,7 +21,7 @@
 
 &lt;p&gt;A webform I am developing that implememts the GOV.UK Pay API which will soon replace the &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://www.nationalarchives.gov.uk/contact-us/request-a-letter-confirming-no-evidence-of-british-naturalisation/form/&quot;&gt;Request a search for no evidence of British naturalisation&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://docs.payments.service.gov.uk/api_reference/#api-reference&quot;&gt;GOV.UK Pay API&lt;/a&gt;  is prety comprehensive, creating an account is free and comes with sandbox testing environments&lt;/p&gt;
+&lt;p&gt;The &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://docs.payments.service.gov.uk/api_reference/#api-reference&quot;&gt;GOV.UK Pay API&lt;/a&gt; document is helpful and accounts comes with a sandbox testing environment.&lt;/p&gt;
 
 &lt;video loop=&quot;true&quot; muted=&quot;&quot; autoplay=&quot;&quot; controls=&quot;&quot;&gt;
     &lt;source src=&quot;/assets/videos/lone_prototype.mp4&quot; type=&quot;video/mp4&quot; /&gt;
@@ -1425,7 +1425,7 @@ prefix xsl--&amp;gt;&lt;/span&gt;
    <link href="http://localhost:4000/2019/02/20/legacy-uis"/>
    <updated>2019-02-20T00:00:00+00:00</updated>
    <id>http://localhost:4000/2019/02/20/Legacy-UIs</id>
-   <content type="html">&lt;p&gt;I do not think ‘entity life history’ is a common place term in today’s dev communities. These are dialogue diagrams used in the 80’s which I think are tremendously useful for modeling the logic of user interface (UI) interaction.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Entity life history are dialogue diagrams that were used in the 1980’s which I think are tremendously useful for modeling the logic of user interface (UI) interaction.&lt;/p&gt;
 
 &lt;h1 id=&quot;41-ahc-dialogue-structure-diagram&quot;&gt;4.1 AHC dialogue structure diagram&lt;/h1&gt;
 
