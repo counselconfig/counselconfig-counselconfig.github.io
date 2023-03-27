@@ -4,21 +4,22 @@ title: Counting and multiplying
 tags: pseudocode algorithms maths
 ---
 
-How does one count? It interests me that something seemingly so simple as counting, which we do by rote memorary, really demands some thinking about to understand how it works just so it can run on a computer. But I have this - remembering the four properties of an algorithm i.e. 
+How does one count? Something as simple as counting, which we do by rote memory, seems to demand suprisingly large amounts of labour. Working this out, first the four properties of an algorithm i.e. 
 
 1. _Unique initialisation_
 2. _Unique succession_
 3. _Finiteness_
 4. _Solution_
 
-here is how to count in pseudocode!
+can be appplied to write how to count, as least from the point of view of a computer:
+
 <br>
 <br>
 
 <embed src="/assets/images/count.svg" width="70%" height="70%" />
 
 <br>
-Now, supringsly, I find it easier and shorter to write an algorithm for multiplication. Bearing in mind, computers pretend to multiply by still adding numbers, but just in loops à la below.
+I find it easier and shorter to write an algorithm for multiplication. Bearing in mind, computers pretend to multiply by still adding numbers, but just in loops à la below.
 <br>
 <br>
 <embed src="/assets/images/times.svg" width="70%" height="70%" />

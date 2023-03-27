@@ -4,7 +4,7 @@
  <title>counsel.config</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-03-27T11:06:12+01:00</updated>
+ <updated>2023-03-27T12:29:34+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -996,7 +996,7 @@ table, th, td {
    <link href="http://localhost:4000/2020/08/11/counting-multiplying"/>
    <updated>2020-08-11T00:00:00+01:00</updated>
    <id>http://localhost:4000/2020/08/11/Counting-Multiplying</id>
-   <content type="html">&lt;p&gt;How does one count? It interests me that something seemingly so simple as counting, which we do by rote memorary, really demands some thinking about to understand how it works just so it can run on a computer. But I have this - remembering the four properties of an algorithm i.e.&lt;/p&gt;
+   <content type="html">&lt;p&gt;How does one count? Something as simple as counting, which we do by rote memory, seems to demand suprisingly large amounts of labour. Working this out, first the four properties of an algorithm i.e.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;em&gt;Unique initialisation&lt;/em&gt;&lt;/li&gt;
@@ -1005,14 +1005,15 @@ table, th, td {
   &lt;li&gt;&lt;em&gt;Solution&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;here is how to count in pseudocode!
-&lt;br /&gt;
+&lt;p&gt;can be appplied to write how to count, as least from the point of view of a computer:&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;embed src=&quot;/assets/images/count.svg&quot; width=&quot;70%&quot; height=&quot;70%&quot; /&gt;
 
 &lt;p&gt;&lt;br /&gt;
-Now, supringsly, I find it easier and shorter to write an algorithm for multiplication. Bearing in mind, computers pretend to multiply by still adding numbers, but just in loops à la below.
+I find it easier and shorter to write an algorithm for multiplication. Bearing in mind, computers pretend to multiply by still adding numbers, but just in loops à la below.
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;embed src=&quot;/assets/images/times.svg&quot; width=&quot;70%&quot; height=&quot;70%&quot; /&gt;
