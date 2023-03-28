@@ -15,7 +15,7 @@ The video starts off with a background presentation followed by a demo of the we
 </video>
 
 
-Here are some comments about the work:
+Here are some comments about the work from the National Archives Digital Directorate:
 
 <style>
 img {
