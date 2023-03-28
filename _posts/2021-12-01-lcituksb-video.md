@@ -24,4 +24,4 @@ img {
 </style>
 
 
-<img src='/assets/images/hopcomments.png' width='100%' height='100%' style='display: block; margin: 0 auto'>
+<img src='/assets/images/comments.png' width='100%' height='100%' style='display: block; margin: 0 auto'>
