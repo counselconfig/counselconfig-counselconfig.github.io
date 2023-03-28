@@ -37,7 +37,7 @@ It also has a sprint interface:
 
 ### Jira
 
-Jira, developed by Atlassian, is another platform that I find myself getting invited to - like above. it is a proprietary issue tracking product that allows bug tracking and agile project management.
+Jira, developed by Atlassian, is another platform I have used - like those above, it is a proprietary issue tracking product that allows bug tracking and agile project management.
 
 
 
