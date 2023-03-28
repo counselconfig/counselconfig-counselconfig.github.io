@@ -17,11 +17,7 @@ The video starts off with a background presentation followed by a demo of the we
 
 Here are some comments about the work from the National Archives Digital Directorate:
 
-<style>
-img {
-  border: 1px solid #555;
-}
-</style>
 
 
-<img src='/assets/images/comments.png' width='100%' height='100%' style='display: block; margin: 0 auto'>
+
+<img src='/assets/images/comments.png' width='60%' height='60%' style='display: block; margin: 0 auto'>
