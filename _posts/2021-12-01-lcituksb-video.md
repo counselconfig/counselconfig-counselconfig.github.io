@@ -20,4 +20,4 @@ Here are some comments about the work from the National Archives Digital Directo
 
 
 
-<img src='/assets/images/comments.png' width='60%' height='60%' style='display: block; margin: 0 auto'>
+<img src='/assets/images/comments.png' width='40%' height='40%' style='display: block; margin: 0 auto'>
