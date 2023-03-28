@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O-O class modeling
+title: O-O class modelling
 tag: object oriented architectural modeling
 ---
 
