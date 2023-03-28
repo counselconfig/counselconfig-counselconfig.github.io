@@ -13,3 +13,15 @@ The video starts off with a background presentation followed by a demo of the we
 <video loop="true" muted autoplay controls>
     <source src="/assets/videos/lcituksbvideo.mp4#t=176,410" type="video/mp4">
 </video>
+
+
+Here are some comments about the work:
+
+<style>
+img {
+  border: 1px solid #555;
+}
+</style>
+
+
+<img src='/assets/images/hopcomments.png' width='100%' height='100%' style='display: block; margin: 0 auto'>
