@@ -20,4 +20,4 @@ Here are some comments about the work from The National Archives Digital Service
 
 
 
-5<img src='/assets/images/comments.png' width='50%' height='50%' style='display: block; margin: 0 auto'>
+<img src='/assets/images/comments.png' width='50%' height='50%' style='display: block; margin: 0 auto'>
