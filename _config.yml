@@ -1,7 +1,7 @@
-site: CounselConfig
+site: counselconfig
 url: #yoururl
 title: counsel.config
-description: software advice
+description:
 twitter:
   username: #yourusername
   card: summary
