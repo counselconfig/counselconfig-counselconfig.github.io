@@ -1,7 +1,7 @@
 site: CounselConfig
 url: #yoururl
 title: counsel.config
-description: Software Engineering Advice
+description: software advice
 twitter:
   username: #yourusername
   card: summary
