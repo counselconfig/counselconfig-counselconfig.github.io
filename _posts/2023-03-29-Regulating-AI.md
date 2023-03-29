@@ -11,7 +11,7 @@ The British government has just released its <strong>AI regulation: a pro-innova
  <br>
   
 <div style="background-color:white; height: 80px; width: 1000px; position:absolute; margin-top:30px;">
-<p>The relatioship between AI and regulation is widley debated, particularly in the emerging field of augemnted humans which I wrote about recently below</p>
+<p>The relatioship between AI and regulation is widley debated, particularly in the emerging field of augemnted humans which I wrote an article about recently</p>
 </div>
 
 <object data="/assets/ahtreglitrev.pdf" type="application/pdf" width="1000" height="1000">
