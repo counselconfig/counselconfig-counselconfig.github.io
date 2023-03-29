@@ -1,7 +1,7 @@
 ---
 layout: post
 title: O-O class modelling
-tag: object oriented architectural modeling
+tag: object oriented architectural modelling
 ---
 
 This blog shows how a new dental system was developed for a small dental practice using O-O class modelling architecture.
