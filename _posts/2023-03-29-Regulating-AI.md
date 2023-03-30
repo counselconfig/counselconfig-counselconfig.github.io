@@ -17,7 +17,7 @@ object {
 </style>
 
 
-<div style="background-color:white; height: 80px; width: 1000px; position:absolute; margin-top:310px;">
+<div style="background-color:white; height: 80px; width: 1000px; position:absolute; margin-top:305px;">
 </div>
 <br>
 <object data="/assets/images/ahtreglitrev.pdf" type="application/pdf" width="1000" height="1000">
