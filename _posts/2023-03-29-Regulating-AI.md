@@ -18,5 +18,3 @@ object {
 
 <br>
 <object data="/assets/images/ahtreglitrev.pdf" type="application/pdf" width="1000" height="1000">
-
-<object data="/assets/images/ahtreglitrev.pdf" type="application/pdf" width="1000" height="1000">
