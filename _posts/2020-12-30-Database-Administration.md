@@ -6,7 +6,7 @@ tags: Database administration devlopment research
 
 # Database administration
 
-Data, and ever increasingly intelligent systems that serve them, are increasing their worth in our national health services during this global pandemic. I have written the following IEEE article drawing on some of the key debates concerning value of 'data' at the 'base'. 
+Data, and ever increasingly intelligent systems that serve them, are increasing their worth in our national health services during this global pandemic. I have written the following IEEE article drawing on some of the key debates concerning the developments of 'data' at the 'base'. 
 
 
 <style>
