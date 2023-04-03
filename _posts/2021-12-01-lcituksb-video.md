@@ -16,5 +16,10 @@ The video starts after the slides circa midway to show a demo of the webapp.
 <br>
 Here are some comments about the work from The National Archives Digital Services Directorate:
 <br>
+<style>
+img {
+  border: 1px solid #555;
+}
+</style>
 
 <img src='/assets/images/comments.png' style='display: block; margin: 0 auto'>
