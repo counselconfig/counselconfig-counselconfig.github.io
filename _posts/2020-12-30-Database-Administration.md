@@ -16,4 +16,4 @@ object {
 </style>
 
 
-<object data="/assets/images/dblitreview.pdf" type="application/pdf" width="1000" height="1000">
+<object data="/assets/images/dblitreview2.pdf" type="application/pdf" width="1000" height="1000">
