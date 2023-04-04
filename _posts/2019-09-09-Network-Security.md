@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Network Security Analysis
+title: Network security analysis
 tags: wireshark packets networking
 ---
 
