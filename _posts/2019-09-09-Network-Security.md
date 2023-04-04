@@ -13,6 +13,6 @@ object {
 </style>
 
 <br>
-<object data="/assets/images/networksecurity.pdf" type="application/pdf" width="1000" height="1000">
+<object data="/assets/images/networksecurity2.pdf" type="application/pdf" width="1000" height="1000">
 
   
