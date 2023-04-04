@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AI Warning
-tags: Artificial Intelligence Regulation 
 ---
 
 # Regulating Emerging Technology
