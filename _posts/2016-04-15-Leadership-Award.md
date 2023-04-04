@@ -1,7 +1,6 @@
 ---
 layout: post
 title: KM Leadership Award
-tags: knowledge management information IT
 ---
 
 
