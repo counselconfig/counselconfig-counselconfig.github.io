@@ -6,6 +6,10 @@ tags: Python Django testing
 
 #  Python unit testing a web application inside of Django. 
 
+The project looks like this:
+<embed src='/testclasses.png' style='display: block; margin: 0 auto'>
+_Class diagram
+
 The objective here is to check that the following urls from urls.py return as expected. Django detects tests by looking for classes that also starts with 'test', hence the list on the right in the test folder:  
 
 
@@ -17,7 +21,7 @@ img {
 
 <img src="/assets/images/unit_testing.png" alt="Award" width="100%" height="100%">
 
-N.B delete the test.py file Django automatically adds
+NB deleted the test.py file rgar Django automatically adds
 
 I map all files to be tested to testing files - Django then looks for functions withinth the test classes. Here I am checking to see that my unit test virtual environment works, so I will intentionally fail a unit test:
 
