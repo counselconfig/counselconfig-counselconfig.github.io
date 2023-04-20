@@ -14,6 +14,11 @@ The video starts after the slides circa midway to show a demo of the webapp.
     <source src="/assets/videos/lcituksbvideo.mp4#t=176,410" type="video/mp4">
 </video>
 <br>
+
+The application  was deployed as follows:
+
+<embed src='/assets/images/lcituksbdep.svg' style='display: block; margin: 0 auto'>
+
 Here are some comments about the work from The National Archives Digital Services Directorate:
 <br>
 
