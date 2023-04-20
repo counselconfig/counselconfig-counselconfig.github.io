@@ -41,7 +41,7 @@ There is an integration services dtsx package used to ETL the external sources f
 ## Updating SCV
 ### Internal SCV data
 
-A SQL Server Agent job named 'SCV_load_source_data' runs automatically on Sunday at 18.00 to execute a stored procedure 'dbo.load_source_data' that inserts linked source data. Success or failure notifications are sent to a dedeicated db admin address.
+A SQL Server Agent job named 'SCV_load_source_data' runs automatically on Sunday at 18.00 to execute a stored procedure called [dbo.load_source_data.sql](https://github.com/counselconfig/SCV_internal_sources/blob/main/load_source_data.sql) that inserts linked source data. Success or failure notifications are sent to a dedeicated db admin address.
 
 The Data Transformation Services Package XML File (dtsx) package looks like this when I am debugging it:
 
