@@ -12,7 +12,7 @@ I have installed elasticsearch locally from elastic.co, the head and marvel plug
 
 This creates data:
 
-```
+```javascript
 PUT my_deezer/song/1
 {
 "title": "Doing All Right",
