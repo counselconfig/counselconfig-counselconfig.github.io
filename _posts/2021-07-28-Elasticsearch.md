@@ -54,7 +54,7 @@ Here Solr document shows proposed nested additional links, the elasticsearch doc
 
 Results are more verbose but provide clarity and return a lot faster than Solr. 
 
-<img src='/assets/images/performance.png' width='100%' height='100%' style='display: block; margin: 0 auto'>
+<img src='/assets/images/performance.png' style='display: block; margin: 0 auto'>
 
 Source:_https://gds.blog.gov.uk/2012/08/03/from-solr-to-elasticsearch_
 
@@ -121,5 +121,5 @@ img {
 </style>
 
 
-<img src='/assets/images/elasticsearch.png' width='100%' height='100%' style='display: block; margin: 0 auto'>
+<img src='/assets/images/elasticsearch.png' style='display: block; margin: 0 auto'>
 
