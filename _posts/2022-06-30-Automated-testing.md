@@ -7,7 +7,9 @@ tags: Python Django testing
 #  Python unit testing a web application inside of Django. 
 
 The project looks like this:
-<embed src='/assets/images/testsclass.png' style='display: block; margin: 0 auto'>
+
+<img src="/assets/images/testsclass.png" alt="cd">
+
 _Class diagram_
 
 The objective here is to check that the following urls from urls.py return as expected. Django detects tests by looking for classes that also starts with 'test', hence the list on the right in the test folder:  
@@ -19,7 +21,7 @@ img {
 }
 </style>
 
-<img src="/assets/images/unit_testing.png" alt="Award" width="100%" height="100%">
+<img src="/assets/images/unit_testing.png" alt="Award">
 
 NB deleted the test.py file rgar Django automatically adds
 
