@@ -117,7 +117,7 @@ Things I have noted about the external data feed when I run my batch script:
     <td class="tg-ssie"><span style="color:inherit;background-color:inherit">C# program that inserts dynamic columns data into the SingleCustomerView database. Files: Email_Research_News.csv Email_Suppressions.csv Email_TNA_News.csv</span></td>
   </tr>
   <tr>
-    <td class="tg-dhxe"><a href="http://127.0.0.1:4000/2020/07/08/single-customer-view#ETL"><span style="text-decoration:underline;color:#000;background-color:inherit">SCV2.dtsx</span></a></td>
+    <td class="tg-dhxe"><span style="text-decoration:underline;color:#000;background-color:inherit">SCV2.dtsx</span></a></td>
     <td class="tg-h718"><span style="color:inherit;background-color:inherit">Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\</span></td>
     <td class="tg-h718"><span style="color:inherit;background-color:inherit">Inserts Eventbrite and SmartSurvey data files from above and FLOW and Shopify data (provided as FLOW_registrations.xlsx, Shopify-Customers.csv, and Shopify-Sales.csv) including staging Eventbrite data in the SingleCustomerView database</span></td>
   </tr>
