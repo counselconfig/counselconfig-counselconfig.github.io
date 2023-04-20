@@ -127,18 +127,3 @@ Things I have noted about the external data feed when I run my batch script:
 Lately I have introduced this [WinSCP client(https://github.com/counselconfig/WinSCP-DEX-export-scheduling/blob/master/winscpdex/Program.cs) to collect eConnect data from REaD's DEX server. 
 
 
-```mermaid 
-graph TB;
-
-        1[SCV.bat]-->A{ }
-        1[SCV.bat]-->B{ }
-        A[EB_output_main.bat]-->D
-        B[SS_output_main.bat]-->D
-        D[Backup sources.ps1]-->E
-        E[Storage limitation delete.ps1]-->F
-        F[econnect.exe]-->G
-        G[SCV2.dtsx]
-```
-
-
-
