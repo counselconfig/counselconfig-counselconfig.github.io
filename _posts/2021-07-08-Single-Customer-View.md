@@ -55,7 +55,7 @@ It is quite long:
 
 The entire processs is executed with this [batch file](https://github.com/counselconfig/scv-batch-process/blob/main/SCV.bat) in the manner of:
 
-<img src="/assets/images/scvprocess.png"  alt="scvprocess">
+<img src="/assets/images/SCVprocess.png"  alt="scvprocess">
 
 
 
