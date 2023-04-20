@@ -3,9 +3,15 @@ layout: post
 title: Asset Audit
 ---
 
-### Querysearch for Asset Auditing
+### Querysearch for Asset Audting
 
 I have been tasked to develop an application for The National Archives that allows its IT Department to monitor and update the technology assets of its staff. 
+
+I came up with this preliminary class scheme:
+
+
+<img src='/assets/images/aaclasses.png' style='display: block; margin: 0 auto'>
+
 
 Having decided to implement the software with Django framework, this is what I have thus far:
 
@@ -31,20 +37,10 @@ def home(request):
     return render(request,'home.html',{'posts':posts_obj})
 ```
 
-So in view I have a dict `request.GET` so `q` is the key and `variable` is the value:
+So in view I have a dict `request.GET` and `q` is the key and variable is the value:
 
 ```javascript
 {'q': 'variable'}
 ```
 
-The Django `QuerySet` is built up as a list of objects making it easier to get the data you actually need, by allowing you to filter and order the data at an early stage. The backend for this application is using SQL lite, meaning a query like:
-
-```python
-data = Staff.objects.filter(firstname='Dominic').values()
-```
-is tantamount to the SQL statement:
-
-```sql
-SELECT * FROM staff WHERE firstname = 'Dominic';
-```
-
+The Django `QuerySet` is built up as a list of objects making it easier to get the data you actually need, by allowing you to filter and order the data at an early stage.
