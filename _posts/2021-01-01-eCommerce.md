@@ -16,12 +16,12 @@ I was commissioned to develop this ecommerce system for a second-hand hardware s
 I adopted a __Test-Driven Development__ plan to develop this application as follows:
 
 
-<img src="/assets/images/test_driven_processs.png" alt="cd">
+<center><img src="/assets/images/test_driven_processs.png" alt="cd"></center>
 
 
 My tests results look like this:
 
-
+<embed src='/assets/images/testplan.svg' style='display: block; margin: 0 auto'>
 
 
 
