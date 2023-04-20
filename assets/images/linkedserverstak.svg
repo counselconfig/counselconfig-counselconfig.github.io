@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612.9 629.9" style="enable-background:new 0 0 612.9 629.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#020203;}
+	.st1{font-family:'Consolas';}
+	.st2{font-size:11px;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#020203;}
+</style>
+<text transform="matrix(1 0 0 1 50.4958 30.646)" class="st0 st1 st2">Server</text>
+<text transform="matrix(1 0 0 1 37.3006 69.7564)" class="st0 st1 st2">Database</text>
+<text transform="matrix(1 0 0 1 4.3124 194.1197)" class="st0 st1 st2">Linked server</text>
+<text transform="matrix(1 0 0 1 87.8315 194.1197)" class="st0 st1 st2"> </text>
+<text transform="matrix(1 0 0 1 37.3003 384.5941)" class="st0 st1 st2">Database</text>
+<text transform="matrix(1 0 0 1 88.3814 384.5941)" class="st0 st1 st2"> </text>
+<text transform="matrix(1 0 0 1 57.0934 548.6244)" class="st0 st1 st2">Table</text>
+<text transform="matrix(1 0 0 1 83.484 548.6244)" class="st0 st1 st2"> </text>
+<text transform="matrix(1 0 0 1 292.3961 18.9603)" class="st0 st1 st2"> </text>
+<text transform="matrix(1 0 0 1 292.3961 34.764)" class="st0 st1 st2"> </text>
+<text transform="matrix(1 0 0 1 303.4016 12.73)" class="st0 st1 st2"> </text>
+<text transform="matrix(1 0 0 1 303.4016 28.5337)" class="st0 st1 st2">NA</text>
+<text transform="matrix(1 0 0 1 322.469 28.5337)" class="st0 st1 st2">-</text>
+<text transform="matrix(1 0 0 1 327.0403 28.5337)" class="st0 st1 st2">SQLC03V03</text>
+<text transform="matrix(1 0 0 1 404.1107 28.5337)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 584.4707 50.3059)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 568.666 50.3059)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 552.8633 50.3059)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 537.0605 50.3059)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 521.2578 50.3059)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 505.4551 50.3059)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 489.6504 50.3059)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 473.8477 50.3059)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 458.043 50.3059)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 442.2422 50.3059)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 426.4375 50.3059)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 410.6348 50.3059)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 394.832 50.3059)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 379.0293 50.3059)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 363.2246 50.3059)" class="st0 st1 st2"> </text>
+<text transform="matrix(1 0 0 1 290.1697 69.7563)" class="st0 st1 st2">singlecustomerview</text>
+<text transform="matrix(0 1 -1 0 584.9707 181.7113)" class="st0 st1 st2"> </text>
+<text transform="matrix(1 0 0 1 562.4814 166.5933)" class="st0 st1 st2"> </text>
+<text transform="matrix(1 0 0 1 512.0478 182.396)" class="st0 st1 st2">NA</text>
+<text transform="matrix(1 0 0 1 531.1161 182.396)" class="st0 st1 st2">-</text>
+<text transform="matrix(1 0 0 1 535.6874 182.396)" class="st0 st1 st2">SQLC01V01</text>
+<text transform="matrix(0 1 -1 0 553.3633 231.9876)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 584.9707 375.1996)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 569.166 375.1996)" class="st0 st1 st2"> </text>
+<text transform="matrix(1 0 0 1 510.3637 375.2773)" class="st0 st1 st2">rmsbookshopdb</text>
+<text transform="matrix(0 1 -1 0 553.3633 423.9437)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 584.9707 503.138)" class="st0 st1 st2">New bookshop </text>
+<text transform="matrix(0 1 -1 0 569.166 516.8841)" class="st0 st1 st2">customers </text>
+<text transform="matrix(0 1 -1 0 553.3633 506.2074)" class="st0 st1 st2">(16_RMS_CT)</text>
+<text transform="matrix(0 1 -1 0 553.3633 594.6849)" class="st0 st1 st2"> </text>
+<path id="path19117" class="st3" d="M598.3,2.5v88.6h-0.5V2.5H598.3z"/>
+<path id="path19119" class="st3" d="M598.3,91.1v0.5h-0.5v-0.5H598.3z"/>
+<path id="path19121" class="st3" d="M598.3,91.7v179.9h-0.5V91.7H598.3z"/>
+<path id="path19123" class="st3" d="M598.3,271.6v0.5h-0.5v-0.5H598.3z"/>
+<path id="path19125" class="st3" d="M598.3,272.1V478h-0.5V272.1H598.3z"/>
+<path id="path19127" class="st3" d="M598.3,478v0.5h-0.5V478H598.3z"/>
+<path id="path19129" class="st3" d="M598.3,478.5v140.2h-0.5V478.5H598.3z"/>
+<path id="path19131" class="st3" d="M598.3,618.7v0.5h-0.5v-0.5H598.3z"/>
+<path id="path19133" class="st3" d="M598.3,2.5V3h-47.4V2.5H598.3z"/>
+<path id="path19135" class="st3" d="M597.2,43.9v0.5h-47.4v-0.5H597.2z"/>
+<path id="path19137" class="st3" d="M597.7,91.1v0.5h-47.4v-0.5H597.7z"/>
+<path id="path19139" class="st3" d="M597.7,271.6v0.5h-47.4v-0.5H597.7z"/>
+<path id="path19141" class="st3" d="M597.7,478v0.5h-47.4V478H597.7z"/>
+<path id="path19143" class="st3" d="M597.7,618.7v0.5h-47.4v-0.5H597.7z"/>
+<text transform="matrix(0 1 -1 0 537.0117 503.138)" class="st0 st1 st2">New bookshop </text>
+<text transform="matrix(0 1 -1 0 521.207 511.5355)" class="st0 st1 st2">transactions </text>
+<text transform="matrix(0 1 -1 0 505.4043 506.5863)" class="st0 st1 st2">(17_RMS_TX)</text>
+<text transform="matrix(0 1 -1 0 505.4043 594.306)" class="st0 st1 st2"> </text>
+<path id="path19163" class="st3" d="M550.9,2.5V3h-0.5V2.5H550.9z"/>
+<path id="path19165" class="st3" d="M549.8,43.9v0.5h-0.5v-0.5H549.8z"/>
+<path id="path19167" class="st3" d="M550.3,91.1v0.5h-0.5v-0.5H550.3z"/>
+<path id="path19169" class="st3" d="M550.3,271.6v0.5h-0.5v-0.5H550.3z"/>
+<path id="path19171" class="st3" d="M550.3,478v0.5h-0.5V478H550.3z"/>
+<path id="path19173" class="st3" d="M550.3,478.5v140.2h-0.5V478.5H550.3z"/>
+<path id="path19175" class="st3" d="M550.3,618.7v0.5h-0.5v-0.5H550.3z"/>
+<path id="path19177" class="st3" d="M550.3,2.5V3h-47.4V2.5H550.3z"/>
+<path id="path19179" class="st3" d="M549.2,43.9v0.5h-47.4v-0.5H549.2z"/>
+<path id="path19181" class="st3" d="M549.7,91.1v0.5h-47.4v-0.5H549.7z"/>
+<path id="path19183" class="st3" d="M549.7,271.6v0.5h-47.4v-0.5H549.7z"/>
+<path id="path19185" class="st3" d="M549.7,478v0.5h-47.4V478H549.7z"/>
+<path id="path19187" class="st3" d="M549.7,618.7v0.5h-47.4v-0.5H549.7z"/>
+<text transform="matrix(0 1 -1 0 488.9141 181.7113)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 473.1094 181.7113)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 457.3066 181.7113)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 441.5039 181.7113)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 425.6992 181.7113)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 409.8984 181.7113)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 394.0938 181.7113)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 378.291 181.7113)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 362.4883 181.7113)" class="st0 st1 st2"> </text>
+<text transform="matrix(1 0 0 1 294.8067 181.643)" class="st0 st1 st2">WB</text>
+<text transform="matrix(1 0 0 1 316.9171 181.643)" class="st0 st1 st2">-</text>
+<text transform="matrix(1 0 0 1 321.4883 181.643)" class="st0 st1 st2">SQLC01V02</text>
+<text transform="matrix(1 0 0 1 398.5587 181.643)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 488.9141 375.1996)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 473.1094 324.8481)" class="st0 st1 st2">discovery_orders</text>
+<text transform="matrix(0 1 -1 0 473.1094 429.3646)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 488.9141 494.7552)" class="st0 st1 st2">Digital downloads </text>
+<text transform="matrix(0 1 -1 0 473.1094 511.5443)" class="st0 st1 st2">transactions </text>
+<text transform="matrix(0 1 -1 0 457.3066 506.5951)" class="st0 st1 st2">(02_DGD_TX)</text>
+<text transform="matrix(0 1 -1 0 457.3066 594.3148)" class="st0 st1 st2"> </text>
+<path id="path19273" class="st3" d="M502.9,2.5V3h-0.5V2.5H502.9z"/>
+<path id="path19275" class="st3" d="M501.8,43.9v0.5h-0.5v-0.5H501.8z"/>
+<path id="path19277" class="st3" d="M502.3,91.1v0.5h-0.5v-0.5H502.3z"/>
+<path id="path19279" class="st3" d="M502.3,91.7v179.9h-0.5V91.7H502.3z"/>
+<path id="path19281" class="st3" d="M502.3,271.6v0.5h-0.5v-0.5H502.3z"/>
+<path id="path19283" class="st3" d="M502.3,272.1V478h-0.5V272.1H502.3z"/>
+<path id="path19285" class="st3" d="M502.3,478v0.5h-0.5V478H502.3z"/>
+<path id="path19287" class="st3" d="M502.3,478.5v140.2h-0.5V478.5H502.3z"/>
+<path id="path19289" class="st3" d="M502.3,618.7v0.5h-0.5v-0.5H502.3z"/>
+<path id="path19293" class="st3" d="M501.3,43.9v0.5h-47.5v-0.5H501.3z"/>
+<path id="path19295" class="st3" d="M501.8,91.1v0.5h-47.5v-0.5H501.8z"/>
+<path id="path19297" class="st3" d="M501.8,271.6v0.5h-47.5v-0.5H501.8z"/>
+<path id="path19299" class="st3" d="M501.8,478v0.5h-47.5V478H501.8z"/>
+<path id="path19301" class="st3" d="M501.8,618.7v0.5h-47.5v-0.5H501.8z"/>
+<text transform="matrix(0 1 -1 0 440.9551 342.3559)" class="st0 st1 st2">aspidentity</text>
+<text transform="matrix(0 1 -1 0 440.9551 407.9779)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 440.9551 493.9505)" class="st0 st1 st2">Discovery sign</text>
+<text transform="matrix(0 1 -1 0 440.9551 583.1986)" class="st0 st1 st2">-</text>
+<text transform="matrix(0 1 -1 0 440.9551 587.7689)" class="st0 st1 st2">up </text>
+<text transform="matrix(0 1 -1 0 425.1504 509.972)" class="st0 st1 st2">(22_DIS_CT)</text>
+<text transform="matrix(0 1 -1 0 425.1504 590.8285)" class="st0 st1 st2"> </text>
+<path id="path19333" class="st3" d="M453.7,43.9v0.5h-0.5v-0.5H453.7z"/>
+<path id="path19335" class="st3" d="M454.2,91.1v0.5h-0.5v-0.5H454.2z"/>
+<path id="path19337" class="st3" d="M454.2,271.6v0.5h-0.5v-0.5H454.2z"/>
+<path id="path19339" class="st3" d="M454.2,272.1V478h-0.5V272.1H454.2z"/>
+<path id="path19341" class="st3" d="M454.2,478v0.5h-0.5V478H454.2z"/>
+<path id="path19343" class="st3" d="M454.2,478.5v140.2h-0.5V478.5H454.2z"/>
+<path id="path19345" class="st3" d="M454.2,618.7v0.5h-0.5v-0.5H454.2z"/>
+<path id="path19349" class="st3" d="M453.2,43.9v0.5h-31.6v-0.5H453.2z"/>
+<path id="path19351" class="st3" d="M453.7,91.1v0.5h-31.6v-0.5H453.7z"/>
+<path id="path19353" class="st3" d="M453.7,271.6v0.5h-31.6v-0.5H453.7z"/>
+<path id="path19355" class="st3" d="M453.7,478v0.5h-31.6V478H453.7z"/>
+<path id="path19357" class="st3" d="M453.7,618.7v0.5h-31.6v-0.5H453.7z"/>
+<text transform="matrix(0 1 -1 0 408.7969 375.1996)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 392.9941 335.9106)" class="st0 st1 st2">image_library</text>
+<text transform="matrix(0 1 -1 0 392.9941 418.3021)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 408.7969 504.2377)" class="st0 st1 st2">Images Online </text>
+<text transform="matrix(0 1 -1 0 392.9941 511.4857)" class="st0 st1 st2">transactions </text>
+<text transform="matrix(0 1 -1 0 377.1914 508.8246)" class="st0 st1 st2">(14_IMO_TX)</text>
+<text transform="matrix(0 1 -1 0 377.1914 591.9671)" class="st0 st1 st2"> </text>
+<path id="path19391" class="st3" d="M422.7,2.5V3h-0.5V2.5H422.7z"/>
+<path id="path19393" class="st3" d="M421.6,43.9v0.5h-0.5v-0.5H421.6z"/>
+<path id="path19395" class="st3" d="M422.1,91.1v0.5h-0.5v-0.5H422.1z"/>
+<path id="path19397" class="st3" d="M422.1,271.6v0.5h-0.5v-0.5H422.1z"/>
+<path id="path19399" class="st3" d="M422.1,272.1V478h-0.5V272.1H422.1z"/>
+<path id="path19401" class="st3" d="M422.1,478v0.5h-0.5V478H422.1z"/>
+<path id="path19403" class="st3" d="M422.1,478.5v140.2h-0.5V478.5H422.1z"/>
+<path id="path19405" class="st3" d="M422.1,618.7v0.5h-0.5v-0.5H422.1z"/>
+<path id="path19407" class="st3" d="M502.9,2.5V3H374.7V2.5H502.9z"/>
+<path id="path19409" class="st3" d="M421,43.9v0.5h-47.4v-0.5H421z"/>
+<path id="path19411" class="st3" d="M421.5,91.1v0.5h-47.4v-0.5H421.5z"/>
+<path id="path19413" class="st3" d="M421.5,271.6v0.5h-47.4v-0.5H421.5z"/>
+<path id="path19415" class="st3" d="M421.5,478v0.5h-47.4V478H421.5z"/>
+<path id="path19417" class="st3" d="M421.5,618.7v0.5h-47.4v-0.5H421.5z"/>
+<text transform="matrix(0 1 -1 0 360.8379 375.1996)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 345.0332 375.1996)" class="st0 st1 st2"> </text>
+<text transform="matrix(1 0 0 1 310.2308 375.4023)" class="st0 st1 st2">prologon</text>
+<text transform="matrix(0 1 -1 0 329.2305 401.8265)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 360.8379 498.4652)" class="st0 st1 st2">Readers contact </text>
+<text transform="matrix(0 1 -1 0 345.0332 506.4916)" class="st0 st1 st2">(18_RDR_CT)</text>
+<text transform="matrix(0 1 -1 0 345.0332 594.2044)" class="st0 st1 st2"> </text>
+<path id="path19453" class="st3" d="M374.7,2.5V3h-0.5V2.5H374.7z"/>
+<path id="path19455" class="st3" d="M373.6,43.9v0.5h-0.5v-0.5H373.6z"/>
+<path id="path19457" class="st3" d="M374.1,91.1v0.5h-0.5v-0.5H374.1z"/>
+<path id="path19459" class="st3" d="M374.1,271.6v0.5h-0.5v-0.5H374.1z"/>
+<path id="path19461" class="st3" d="M374.1,272.1V478h-0.5V272.1H374.1z"/>
+<path id="path19463" class="st3" d="M374.1,478v0.5h-0.5V478H374.1z"/>
+<path id="path19465" class="st3" d="M374.1,478.5v140.2h-0.5V478.5H374.1z"/>
+<path id="path19467" class="st3" d="M374.1,618.7v0.5h-0.5v-0.5H374.1z"/>
+<path id="path19469" class="st3" d="M374.2,2.5V3h-31.6V2.5H374.2z"/>
+<path id="path19471" class="st3" d="M373.1,43.9v0.5h-31.6v-0.5H373.1z"/>
+<path id="path19473" class="st3" d="M373.6,91.1v0.5H342v-0.5H373.6z"/>
+<path id="path19475" class="st3" d="M373.6,271.6v0.5H342v-0.5H373.6z"/>
+<path id="path19477" class="st3" d="M373.6,478v0.5H342V478H373.6z"/>
+<path id="path19479" class="st3" d="M373.6,618.7v0.5H342v-0.5H373.6z"/>
+<text transform="matrix(0 1 -1 0 328.6816 522.514)" class="st0 st1 st2">Readers </text>
+<text transform="matrix(0 1 -1 0 312.8789 510.6947)" class="st0 st1 st2">membership </text>
+<text transform="matrix(0 1 -1 0 297.0742 505.3597)" class="st0 st1 st2">(19_RDR_MB)</text>
+<text transform="matrix(0 1 -1 0 297.0742 595.3646)" class="st0 st1 st2"> </text>
+<path id="path19499" class="st3" d="M342.6,2.5V3h-0.5V2.5H342.6z"/>
+<path id="path19501" class="st3" d="M341.5,43.9v0.5H341v-0.5H341.5z"/>
+<path id="path19503" class="st3" d="M342,91.1v0.5h-0.5v-0.5H342z"/>
+<path id="path19505" class="st3" d="M342,271.6v0.5h-0.5v-0.5H342z"/>
+<path id="path19507" class="st3" d="M342,478v0.5h-0.5V478H342z"/>
+<path id="path19509" class="st3" d="M342,478.5v140.2h-0.5V478.5H342z"/>
+<path id="path19511" class="st3" d="M342,618.7v0.5h-0.5v-0.5H342z"/>
+<path id="path19513" class="st3" d="M342,2.5V3h-47.4V2.5H342z"/>
+<path id="path19515" class="st3" d="M340.9,43.9v0.5h-47.4v-0.5H340.9z"/>
+<path id="path19517" class="st3" d="M341.4,91.1v0.5H294v-0.5H341.4z"/>
+<path id="path19519" class="st3" d="M341.4,271.6v0.5H294v-0.5H341.4z"/>
+<path id="path19521" class="st3" d="M341.4,478v0.5H294V478H341.4z"/>
+<path id="path19523" class="st3" d="M341.4,618.7v0.5H294v-0.5H341.4z"/>
+<text transform="matrix(0 1 -1 0 280.7207 360.221)" class="st0 st1 st2">doris</text>
+<text transform="matrix(0 1 -1 0 280.7207 389.972)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 280.7207 494.3431)" class="st0 st1 st2">Readers requests </text>
+<text transform="matrix(0 1 -1 0 264.918 505.4183)" class="st0 st1 st2">(20_RDR_RQ)</text>
+<text transform="matrix(0 1 -1 0 264.918 595.4242)" class="st0 st1 st2"> </text>
+<path id="path19549" class="st3" d="M294.6,2.5V3h-0.5V2.5H294.6z"/>
+<path id="path19551" class="st3" d="M293.5,43.9v0.5H293v-0.5H293.5z"/>
+<path id="path19553" class="st3" d="M294,91.1v0.5h-0.5v-0.5H294z"/>
+<path id="path19555" class="st3" d="M294,271.6v0.5h-0.5v-0.5H294z"/>
+<path id="path19557" class="st3" d="M294,272.1V478h-0.5V272.1H294z"/>
+<path id="path19559" class="st3" d="M294,478v0.5h-0.5V478H294z"/>
+<path id="path19561" class="st3" d="M294,478.5v140.2h-0.5V478.5H294z"/>
+<path id="path19563" class="st3" d="M294,618.7v0.5h-0.5v-0.5H294z"/>
+<path id="path19565" class="st3" d="M294.1,2.5V3h-31.6V2.5H294.1z"/>
+<path id="path19567" class="st3" d="M293,43.9v0.5h-31.6v-0.5H293z"/>
+<path id="path19569" class="st3" d="M293.5,91.1v0.5h-31.6v-0.5H293.5z"/>
+<path id="path19571" class="st3" d="M293.5,271.6v0.5h-31.6v-0.5H293.5z"/>
+<path id="path19573" class="st3" d="M293.5,478v0.5h-31.6V478H293.5z"/>
+<path id="path19575" class="st3" d="M293.5,618.7v0.5h-31.6v-0.5H293.5z"/>
+<text transform="matrix(0 1 -1 0 248.5664 375.1996)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 232.7617 306.5238)" class="st0 st1 st2">record_copying_legacy</text>
+<text transform="matrix(0 1 -1 0 232.7617 447.6888)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 248.5664 486.3724)" class="st0 st1 st2">Records copying old </text>
+<text transform="matrix(0 1 -1 0 232.7617 506.6039)" class="st0 st1 st2">(23_RCO_TX)</text>
+<text transform="matrix(0 1 -1 0 232.7617 594.3236)" class="st0 st1 st2"> </text>
+<path id="path19605" class="st3" d="M262.5,2.5V3h-0.6V2.5H262.5z"/>
+<path id="path19607" class="st3" d="M261.4,43.9v0.5h-0.6v-0.5H261.4z"/>
+<path id="path19609" class="st3" d="M261.9,91.1v0.5h-0.6v-0.5H261.9z"/>
+<path id="path19611" class="st3" d="M261.9,271.6v0.5h-0.6v-0.5H261.9z"/>
+<path id="path19613" class="st3" d="M261.9,272.1V478h-0.6V272.1H261.9z"/>
+<path id="path19615" class="st3" d="M261.9,478v0.5h-0.6V478H261.9z"/>
+<path id="path19617" class="st3" d="M261.9,478.5v140.2h-0.6V478.5H261.9z"/>
+<path id="path19619" class="st3" d="M261.9,618.7v0.5h-0.6v-0.5H261.9z"/>
+<path id="path19621" class="st3" d="M261.9,2.5V3h-31.6V2.5H261.9z"/>
+<path id="path19623" class="st3" d="M260.8,43.9v0.5h-31.6v-0.5H260.8z"/>
+<path id="path19625" class="st3" d="M261.3,91.1v0.5h-31.6v-0.5H261.3z"/>
+<path id="path19627" class="st3" d="M261.3,271.6v0.5h-31.6v-0.5H261.3z"/>
+<path id="path19629" class="st3" d="M261.3,478v0.5h-31.6V478H261.3z"/>
+<path id="path19631" class="st3" d="M261.3,618.7v0.5h-31.6v-0.5H261.3z"/>
+<text transform="matrix(0 1 -1 0 216.2715 497.5033)" class="st0 st1 st2">Records copying </text>
+<text transform="matrix(0 1 -1 0 200.4688 492.5541)" class="st0 st1 st2">new (24_RCN_TX)</text>
+<text transform="matrix(0 1 -1 0 200.4688 608.5043)" class="st0 st1 st2"> </text>
+<path id="path19647" class="st3" d="M230.3,2.5V3h-0.5V2.5H230.3z"/>
+<path id="path19649" class="st3" d="M229.2,43.9v0.5h-0.5v-0.5H229.2z"/>
+<path id="path19651" class="st3" d="M229.7,91.1v0.5h-0.5v-0.5H229.7z"/>
+<path id="path19653" class="st3" d="M229.7,271.6v0.5h-0.5v-0.5H229.7z"/>
+<path id="path19655" class="st3" d="M229.7,478v0.5h-0.5V478H229.7z"/>
+<path id="path19657" class="st3" d="M229.7,478.5v140.2h-0.5V478.5H229.7z"/>
+<path id="path19659" class="st3" d="M229.7,618.7v0.5h-0.5v-0.5H229.7z"/>
+<path id="path19661" class="st3" d="M229.7,2.5V3H99.3V2.5H229.7z"/>
+<path id="path19663" class="st3" d="M228.6,43.9v0.5h-31.7v-0.5H228.6z"/>
+<path id="path19665" class="st3" d="M229.1,91.1v0.5h-31.7v-0.5H229.1z"/>
+<path id="path19667" class="st3" d="M229.1,271.6v0.5h-31.7v-0.5H229.1z"/>
+<path id="path19669" class="st3" d="M229.1,478v0.5h-31.7V478H229.1z"/>
+<path id="path19671" class="st3" d="M229.1,618.7v0.5h-31.7v-0.5H229.1z"/>
+<text transform="matrix(0 1 -1 0 184.1152 98.847)" class="st0 st1 st2">WB</text>
+<text transform="matrix(0 1 -1 0 184.1152 120.9583)" class="st0 st1 st2">-</text>
+<text transform="matrix(0 1 -1 0 184.1152 125.5287)" class="st0 st1 st2">SQLC01V02 from WB</text>
+<text transform="matrix(0 1 -1 0 184.1152 260.2006)" class="st0 st1 st2">-</text>
+<text transform="matrix(0 1 -1 0 168.3105 116.4369)" class="st0 st1 st2">WEB02.WEB.LOCAL</text>
+<text transform="matrix(0 1 -1 0 168.3105 246.8773)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 184.1152 319.1322)" class="st0 st1 st2">doris </text>
+<text transform="matrix(0 1 -1 0 184.1152 352.6966)" class="st0 st1 st2">from </text>
+<text transform="matrix(0 1 -1 0 184.1152 383.9632)" class="st0 st1 st2">&quot;</text>
+<text transform="matrix(0 1 -1 0 184.1152 389.0785)" class="st0 st1 st2">sentry</text>
+<text transform="matrix(0 1 -1 0 184.1152 426.4574)" class="st0 st1 st2">&quot;</text>
+<text transform="matrix(0 1 -1 0 184.1152 431.2669)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 184.1152 500.8021)" class="st0 st1 st2">Readers barrier </text>
+<text transform="matrix(0 1 -1 0 168.3105 506.1468)" class="st0 st1 st2">(21_RDR_BR)</text>
+<text transform="matrix(0 1 -1 0 168.3105 594.6312)" class="st0 st1 st2"> </text>
+<path id="path19735" class="st3" d="M198,2.5V3h-0.5V2.5H198z"/>
+<path id="path19737" class="st3" d="M196.9,43.9v0.5h-0.5v-0.5H196.9z"/>
+<path id="path19739" class="st3" d="M197.4,91.1v0.5h-0.5v-0.5H197.4z"/>
+<path id="path19741" class="st3" d="M197.4,91.7v179.9h-0.5V91.7H197.4z"/>
+<path id="path19743" class="st3" d="M197.4,271.6v0.5h-0.5v-0.5H197.4z"/>
+<path id="path19745" class="st3" d="M197.4,272.1V478h-0.5V272.1H197.4z"/>
+<path id="path19747" class="st3" d="M197.4,478v0.5h-0.5V478H197.4z"/>
+<path id="path19749" class="st3" d="M197.4,478.5v140.2h-0.5V478.5H197.4z"/>
+<path id="path19751" class="st3" d="M197.4,618.7v0.5h-0.5v-0.5H197.4z"/>
+<path id="path19755" class="st3" d="M196.4,43.9v0.5h-31.6v-0.5H196.4z"/>
+<path id="path19757" class="st3" d="M196.9,91.1v0.5h-31.6v-0.5H196.9z"/>
+<path id="path19759" class="st3" d="M196.9,271.6v0.5h-31.6v-0.5H196.9z"/>
+<path id="path19761" class="st3" d="M196.9,478v0.5h-31.6V478H196.9z"/>
+<path id="path19763" class="st3" d="M196.9,618.7v0.5h-31.6v-0.5H196.9z"/>
+<text transform="matrix(0 1 -1 0 151.959 181.7113)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 136.1543 131.7426)" class="st0 st1 st2">WB</text>
+<text transform="matrix(0 1 -1 0 136.1543 153.8529)" class="st0 st1 st2">-</text>
+<text transform="matrix(0 1 -1 0 136.1543 158.4242)" class="st0 st1 st2">SQLC01V03</text>
+<text transform="matrix(0 1 -1 0 136.1543 235.4945)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 151.959 375.1996)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 136.1543 338.1898)" class="st0 st1 st2">public_portal</text>
+<text transform="matrix(0 1 -1 0 136.1543 416.0238)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 151.959 510.9125)" class="st0 st1 st2">WiFi</text>
+<text transform="matrix(0 1 -1 0 151.959 538.3519)" class="st0 st1 st2"> </text>
+<text transform="matrix(0 1 -1 0 151.959 542.1654)" class="st0 st1 st2">contact  </text>
+<text transform="matrix(0 1 -1 0 136.1543 510.9193)" class="st0 st1 st2">(34_WIF_CT)</text>
+<text transform="matrix(0 1 -1 0 136.1543 594.0482)" class="st0 st1 st2"> </text>
+<path id="path19817" class="st3" d="M164.7,43.9v0.5h-0.5v-0.5H164.7z"/>
+<path id="path19819" class="st3" d="M165.2,91.1v0.5h-0.5v-0.5H165.2z"/>
+<path id="path19821" class="st3" d="M165.2,91.7v179.9h-0.5V91.7H165.2z"/>
+<path id="path19823" class="st3" d="M165.2,271.6v0.5h-0.5v-0.5H165.2z"/>
+<path id="path19825" class="st3" d="M165.2,272.1V478h-0.5V272.1H165.2z"/>
+<path id="path19827" class="st3" d="M165.2,478v0.5h-0.5V478H165.2z"/>
+<path id="path19829" class="st3" d="M165.2,478.5v140.2h-0.5V478.5H165.2z"/>
+<path id="path19831" class="st3" d="M165.2,618.7v0.5h-0.5v-0.5H165.2z"/>
+<path id="path19835" class="st3" d="M164.2,43.9v0.5h-32.7v-0.5H164.2z"/>
+<path id="path19837" class="st3" d="M164.7,91.1v0.5H132v-0.5H164.7z"/>
+<path id="path19839" class="st3" d="M164.7,271.6v0.5H132v-0.5H164.7z"/>
+<path id="path19841" class="st3" d="M164.7,478v0.5H132V478H164.7z"/>
+<path id="path19843" class="st3" d="M164.7,618.7v0.5H132v-0.5H164.7z"/>
+<text transform="matrix(0 1 -1 0 118.7031 506.1615)" class="st0 st1 st2">WiFi sessions </text>
+<text transform="matrix(0 1 -1 0 102.8984 508.8255)" class="st0 st1 st2">(35_WIF_SS)</text>
+<text transform="matrix(0 1 -1 0 102.8984 591.9671)" class="st0 st1 st2"> </text>
+<path id="path19861" class="st3" d="M131.5,43.9v0.5H131v-0.5H131.5z"/>
+<path id="path19863" class="st3" d="M132,91.1v0.5h-0.5v-0.5H132z"/>
+<path id="path19865" class="st3" d="M132,271.6v0.5h-0.5v-0.5H132z"/>
+<path id="path19867" class="st3" d="M132,478v0.5h-0.5V478H132z"/>
+<path id="path19869" class="st3" d="M132,478.5v140.2h-0.5V478.5H132z"/>
+<path id="path19871" class="st3" d="M132,618.7v0.5h-0.5v-0.5H132z"/>
+<path id="path19881" class="st3" d="M130.9,43.9v0.5H99.3v-0.5H130.9z"/>
+<path id="path19885" class="st3" d="M99.8,2.5v88.6h-0.5V2.5H99.8z"/>
+<path id="path19887" class="st3" d="M131.4,91.1v0.5H99.8v-0.5H131.4z"/>
+<path id="path19889" class="st3" d="M99.8,91.1v0.5h-0.5v-0.5H99.8z"/>
+<path id="path19891" class="st3" d="M99.8,91.7v179.9h-0.5V91.7H99.8z"/>
+<path id="path19893" class="st3" d="M131.4,271.6v0.5H99.8v-0.5H131.4z"/>
+<path id="path19895" class="st3" d="M99.8,271.6v0.5h-0.5v-0.5H99.8z"/>
+<path id="path19897" class="st3" d="M99.8,272.1V478h-0.5V272.1H99.8z"/>
+<path id="path19899" class="st3" d="M131.4,478v0.5H99.8V478H131.4z"/>
+<path id="path19901" class="st3" d="M99.8,478v0.5h-0.5V478H99.8z"/>
+<path id="path19903" class="st3" d="M99.8,478.5v140.2h-0.5V478.5H99.8z"/>
+<path id="path19905" class="st3" d="M131.4,618.7v0.5H99.8v-0.5H131.4z"/>
+<path id="path19907" class="st3" d="M99.8,618.7v0.5h-0.5v-0.5H99.8z"/>
+<path id="path19909" class="st3" d="M99.8,618.7v0.5h-0.5v-0.5H99.8z"/>
+</svg>
