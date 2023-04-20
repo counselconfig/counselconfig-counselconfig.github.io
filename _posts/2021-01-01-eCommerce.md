@@ -19,7 +19,7 @@ I adopted a __Test-Driven Development__ plan to develop this application as foll
 <center><img src="/assets/images/test_driven_processs.png" alt="cd"></center>
 
 
-My tests results look like this:
+From a secion of the report I wrote, my tests results look like this:
 
 <embed src='/assets/images/testplan.svg' style='display: block; margin: 0 auto'>
 
