@@ -12,6 +12,21 @@ I was commissioned to develop this ecommerce system for a second-hand hardware s
     <source src="/assets/videos/hardwarehub.mp4" type="video/mp4">
 </video>
 
+
+I adopted a __Test-Driven Development__ plan to develop this application as follows:
+
+
+<img src="/assets/images/test_driven_processs.png" alt="cd">
+
+
+My tests results look like this:
+
+
+
+
+
+
+
 <br>
 <br>
 <embed src='/assets/images/HardwareDb_aspDb.svg' style='display: block; margin: 0 auto'>
