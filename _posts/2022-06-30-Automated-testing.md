@@ -12,7 +12,7 @@ The project looks like this:
 
 _Class diagram_
 
-The objective here is to check that the following urls from urls.py return as expected. Django detects tests by looking for classes that also starts with 'test', hence the list on the right in the test folder:  
+The objective here is to check that the following urls from urls.py return as expected. A request in Django first comes to urls.py and then goes to the matching function in views.py. Django detects tests by looking for classes that also starts with 'test', hence the list on the right in the test folder:  
 
 
 <style>
@@ -23,7 +23,7 @@ img {
 
 <img src="/assets/images/unit_testing.png" alt="Award">
 
-NB deleted the test.py file rgar Django automatically adds
+NB deleted the test.py file that Django automatically adds.
 
 I map all files to be tested to testing files - Django then looks for functions withinth the test classes. Here I am checking to see that my unit test virtual environment works, so I will intentionally fail a unit test:
 
