@@ -7,8 +7,8 @@ tags: Python Django testing
 #  Python unit testing a web application inside of Django. 
 
 The project looks like this:
-<embed src='/testclasses.png' style='display: block; margin: 0 auto'>
-_Class diagram
+<embed src='/assets/images/testclasses.png' style='display: block; margin: 0 auto'>
+_Class diagram_
 
 The objective here is to check that the following urls from urls.py return as expected. Django detects tests by looking for classes that also starts with 'test', hence the list on the right in the test folder:  
 
