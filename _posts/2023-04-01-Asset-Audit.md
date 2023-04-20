@@ -3,7 +3,7 @@ layout: post
 title: Asset Audit
 ---
 
-### Querysearch for Asset Audting
+### Querysearch for Asset Auditing
 
 I have been tasked to develop an application for The National Archives that allows its IT Department to monitor and update the technology assets of its staff. 
 
