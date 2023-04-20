@@ -42,7 +42,7 @@ class TestCheck(TestCase):
 
 The ```self.assertEquals()``` verifies that the action of the function under test behaves as expected i.e. two arguments passed are equal. I am obtaining these results from my terminal like this:
 
-<img src="/assets/images/unit_testing_terminal.png" alt="Award" width="100%" height="100%">
+<img src="/assets/images/unit_testing_terminal.png" alt="Award">
 
 
 I am setting the URL now equal to the reverse of ```'list'```  - used to pass the url to the result function to what view Django is going to call.
