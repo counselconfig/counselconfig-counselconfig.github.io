@@ -129,3 +129,43 @@ An error that there is no reverse for details without any arguemnts if ```args``
         Destroying test database for alias 'default'...
         """
 ```
+
+I have also written the following to test the views of the application:
+
+```py
+from django.test import TestCase, Client 
+from budget.models import Project, Category, Expense
+import json
+
+
+class TestViews(TestCase):
+
+    def setUp(self):
+        self.client = Client()
+        self.list_url = reverse('list')
+        self.detail_url = reverse('detail', args=[project1])
+        self.projet = Project.objects.create(
+            name = 'project1'
+            budget = 10000
+        )
+    
+    def test_project_list_GET(self):
+        response = self.client.get(self.list_url)
+        
+        self.assertEquals(response.status_code, 200)
+        self.assertTemplateUsed(response, 'budget/project-list.html')
+    
+    def test_project_detail_POST_adds_new_expense(self):
+        Category.objects.create(
+            project=self.project1,
+            name='development'
+        )
+
+    response = self.client.post(self.detail_url, {
+        'title': 'expemse1'
+        'amount': 1000,
+        'category': 'development'
+    })
+    self.assertEquals(response,status_code, 302) # 302 redirect status response code indicates that the resource requested has been temporarily moved to the URL given by the location header
+    self.assertEquals(self.project.expenses.first().title, 'expense1')
+```
