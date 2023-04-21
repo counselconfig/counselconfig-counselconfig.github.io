@@ -21,7 +21,7 @@ Having decided to implement the software with Django framework, this is what I h
 
 Note the `q` URL parameter in 
 
-```
+```console
 [20/Apr/2023 08:59:03] "GET /?q=foo.bar%40nationalarchives.gov.uk HTTP/1.1" 200 2165
 ```
 This is essentially calling my function:
