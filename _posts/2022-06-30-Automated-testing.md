@@ -130,7 +130,7 @@ An error that there is no reverse for details without any arguemnts if ```args``
         """
 ```
 
-I have also written the following to test the views of the application:
+I have also written the following to test some of the views of the application:
 
 ```py
 from django.test import TestCase, Client 
