@@ -4,7 +4,7 @@ title: KM Leadership Award
 ---
 
 
-I have ended up leading my team's Knowledge Management (KM) lately ovseering the application administration of our SharePoint servers and got this award. 
+I have ended up leading my team's Knowledge Management (KM) lately overseeing the application administration of our SharePoint servers and got this award. 
 
 <style>
 img {
