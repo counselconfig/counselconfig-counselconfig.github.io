@@ -19,7 +19,7 @@ A useful feature of elasticsearch is that it exposes a range of index management
 * Control of the index is with the application,
 * Temporary indexes for A/B or integration testing is feasible 
 
-Furtheremore, modelling data is improved by nested documents 
+Furthermore, modelling data is improved by nested documents 
 
 __Solr__
 ```json
