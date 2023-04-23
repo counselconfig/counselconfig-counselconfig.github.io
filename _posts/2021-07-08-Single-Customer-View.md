@@ -124,6 +124,6 @@ Things I have noted about the external data feed when I run my batch script:
 </tbody>
 </table>
 
-Lately I have introduced this [WinSCP client(https://github.com/counselconfig/WinSCP-DEX-export-scheduling/blob/master/winscpdex/Program.cs) to collect eConnect data from REaD's DEX server. 
+Lately I have introduced this [WinSCP client](https://github.com/counselconfig/WinSCP-DEX-export-scheduling/blob/master/winscpdex/Program.cs) to collect eConnect data from REaD's DEX server. 
 
 
