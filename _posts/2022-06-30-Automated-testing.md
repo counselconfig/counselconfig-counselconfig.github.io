@@ -4,9 +4,9 @@ title: Automated unit testing
 tags: Python Django testing
 ---
 
-#  Python unit web application testing inside of Django. 
+#  Pytho web application unit testing inside of Django. 
 
-I have been working on a collaborative Github 'budgeting web app' project, with strangers on the internet. The main testing aspect I am focusing on looks like this:
+I have been working on a collaborative Github 'budgeting web app' project to carry out automated unit testing, the class architecture looks like this:
 
 <img src="/assets/images/testsclass.png" alt="cd">
 
