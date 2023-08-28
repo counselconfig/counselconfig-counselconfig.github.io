@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-This is a software engineering, advice, and data research site for enterprises and inderviduals with a focus on archives, legal informatics, and technical architecture lead by Dominic Love.
+Config.Counsel® is software architecture consultancy for enterprises and inderviduals with a focus on archives and legal informatics, and a registered trademark of Abaculus Limited.
 
 
 
